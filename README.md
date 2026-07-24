@@ -12,12 +12,12 @@
 
 ### 💫 About Me
 
-I am a Computer Applications student passionate about building practical software solutions, scalable web applications, and delivering seamless deployment experiences. Beyond core software development, I have hands-on experience handling freelance web hosting and deployment projects for clients.
+I am a Computer Applications student passionate about building practical software solutions, database management, and delivering seamless web deployment experiences. Beyond core software development, I have hands-on experience handling freelance web hosting and deployment projects for clients.
 
 * 🎓 **Education:** Pursuing BCA (5th Semester) at Sree Venkateshwara College of Science and Management
 * 🚀 **Freelance Experience:** Web Hosting & Live Website Deployment
 * 🗣️ **Languages:** English, Kannada, Telugu
-* 💬 **Ask me about:** Python, SQL, Web Hosting, HTML/CSS, Git & GitHub
+* 💬 **Ask me about:** Python, SQL, Web Hosting, HTML, Git & GitHub
 
 ---
 
@@ -27,12 +27,9 @@ I am a Computer Applications student passionate about building practical softwar
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Deployment, Hosting & Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Web Hosting](https://img.shields.io/badge/Web_Hosting-412991?style=flat-square&logo=hostinger&logoColor=white)
 
@@ -43,8 +40,8 @@ I am a Computer Applications student passionate about building practical softwar
 #### 🍱 [Lunch Bell Box](https://github.com/sanjana-0102/lunchbell-box)
 > A web-based food ordering platform designed to simplify daily meal ordering and management with an intuitive user workflow.
 
-* **Key Highlights:** Database management, user-friendly ordering interface, structured backend flow.
-* **Tech Stack:** HTML/CSS, JavaScript, SQL / Python
+* **Key Highlights:** Database management, user-friendly interface, structured backend flow.
+* **Tech Stack:** Python, HTML, SQL
 
 ---
 
