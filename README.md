@@ -30,12 +30,21 @@ I am a Computer Applications student passionate about building practical softwar
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Deployment, Hosting & Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Web Hosting](https://img.shields.io/badge/Web_Hosting-412991?style=flat-square&logo=hostinger&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
+
+#### 🎓 [Student Marks & Attendance Tracker](https://github.com/sanjana-0102/student-tracker)
+> A command-line Python application integrated with SQLite to efficiently log, search, and manage student academic performance and attendance records.
+
+* **Key Highlights:** Persistent SQL storage, input validation, search & delete features.
+* **Tech Stack:** Python, SQL (SQLite)
+
+---
 
 #### 🍱 [Lunch Bell Box](https://github.com/sanjana-0102/lunchbell-box)
 > A web-based food ordering platform designed to simplify daily meal ordering and management with an intuitive user workflow.
